@@ -107,6 +107,9 @@
       "workflow_comment": "Add a workflow comment",
       "workflow_validated_title": "Workflow step validated",
       "workflow_validated_message": "The workflow step has been successfully validated.",
+      "score": "Score",
+      "no_score": "No score on this document yet",
+      "error_loading_score": "Error loading score",
       "content": {
         "content": "Content",
         "delete_file_title": "Delete file",
