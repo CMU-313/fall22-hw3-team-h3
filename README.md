@@ -124,6 +124,10 @@ mvn jetty:run
 
 **The default admin password is "admin". Don't forget to change it before going to production.**
 
+# New Feature: Score
+
+Documentation for the new feature, score, can be found in ScoreDocumentation.md
+
 # License
 
 Teedy is released under the terms of the GPL license. See `COPYING` for more
